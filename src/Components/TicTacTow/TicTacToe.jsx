@@ -1,5 +1,3 @@
-/** @format */
-
 import { useRef, useState } from "react";
 import cross_icon from "../Assets/cross.png";
 import circle_icon from "../Assets/circle.png";
